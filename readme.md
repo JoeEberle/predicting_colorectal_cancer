@@ -38,4 +38,4 @@ To get started with the **Predicting Colorectal Cancer** solution repository, fo
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](predicting_colorectal_cancer.png)  <br>
+    ## Deliverables or Figures![additional_image](predicting_colorectal_cancer.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
