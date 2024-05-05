@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Predicting Colorectal Cancer - Machine learning for predicting colorectal cancer.
 Machine learning for predicting colorectal cancer.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Predicting Colorectal Cancer** - an example for your p
 Machine learning for predicting colorectal cancer.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
