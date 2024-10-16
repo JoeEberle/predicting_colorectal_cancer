@@ -39,11 +39,8 @@ To get started with the **Predicting Colorectal Cancer** solution repository, fo
  ![additional_image](AI_assistant.png)  <br>![additional_image](predicting_colorectal_cancer.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
