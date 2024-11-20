@@ -1,0 +1,4 @@
+2024-10-28 21:15:06,634 - INFO - START predicting_colorectal_cancer =============================================
+2024-10-28 21:15:06,634 - INFO - START predicting_colorectal_cancer Start Time = 2024-10-28 21:15:06
+2024-10-28 21:15:06,634 - INFO - predicting_colorectal_cancer Step 0 - Initialize the configuration file parser
+2024-10-28 21:15:06,634 - INFO - Process predicting_colorectal_cancer Step 0 - Initializing and starting Logging Process.
