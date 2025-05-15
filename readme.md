@@ -51,13 +51,3 @@ To get started with the **Predicting Colorectal Cancer** solution repository, fo
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](AI_assistant.png)  <br>![additional_image](predicting_colorectal_cancer.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
